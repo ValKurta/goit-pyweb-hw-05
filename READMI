@@ -1,0 +1,11 @@
+ run comman:
+    python main.py 2 --currencies EUR USD
+
+ to check ws:
+ step1
+    run the command "python ws_chat.py" in terminal 1
+ step2
+    run the command "python ws_client.py" in terminal 2
+
+test:
+    python -m unittest test.py

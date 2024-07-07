@@ -1,0 +1,210 @@
+2024-07-07T19:41:00.992491 - Command: exchange, Days: 2, Currencies: ['EUR', 'USD'], Response: {
+  "05.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "06.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "07.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  }
+}
+2024-07-07T19:42:17.456180 - Command: exchange, Days: 7, Currencies: ['EUR', 'USD'], Response: {
+  "30.06.2024": {
+    "EUR": {
+      "sale": 44.0,
+      "purchase": 43.0
+    },
+    "USD": {
+      "sale": 40.85,
+      "purchase": 40.25
+    }
+  },
+  "01.07.2024": {
+    "EUR": {
+      "sale": 44.0,
+      "purchase": 43.0
+    },
+    "USD": {
+      "sale": 40.85,
+      "purchase": 40.25
+    }
+  },
+  "02.07.2024": {
+    "EUR": {
+      "sale": 44.1,
+      "purchase": 43.1
+    },
+    "USD": {
+      "sale": 41.0,
+      "purchase": 40.4
+    }
+  },
+  "03.07.2024": {
+    "USD": {
+      "sale": 41.0,
+      "purchase": 40.4
+    },
+    "EUR": {
+      "sale": 44.2,
+      "purchase": 43.2
+    }
+  },
+  "04.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.9,
+      "purchase": 40.3
+    }
+  },
+  "05.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "06.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "07.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  }
+}
+2024-07-07T19:52:47.681560 - Command: exchange, Days: 2, Currencies: ['EUR', 'USD'], Response: {
+  "05.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "06.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "07.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  }
+}
+2024-07-07T19:54:23.819477 - Command: exchange, Days: 2, Currencies: ['EUR', 'USD'], Response: {
+  "05.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "06.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "07.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  }
+}
+2024-07-07T19:55:18.570599 - Command: exchange, Days: 2, Currencies: ['EUR', 'USD'], Response: {
+  "05.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "06.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  },
+  "07.07.2024": {
+    "EUR": {
+      "sale": 44.25,
+      "purchase": 43.25
+    },
+    "USD": {
+      "sale": 40.95,
+      "purchase": 40.35
+    }
+  }
+}
